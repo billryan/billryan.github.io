@@ -15,10 +15,10 @@ highlighter: pygments
 
 
 ### content configuration ###
-title:
-keywords:
-description:
-source_link:
+title: Bill Ryan
+keywords: billryan
+description: Home of billryan
+source_link: http://www.billryan.me
 favicon:
 touch_icon:
 google_analytics_key:
@@ -47,3 +47,15 @@ colors:
   turquoise:
     light: '#0fbfcf'
     dark: '#0fbfcf'
+  sepia-bg:
+    light: '#704214'
+    dark: '#704214'
+  sepia-ft:
+    light: '#f3eacb'
+    dark: '#f3eacb'
+  midnight-blue:
+    light: '#012345'
+    dark: '#012345'
+  yellow:
+    light: '#FFFF00'
+    dark: '#FFFF00'
