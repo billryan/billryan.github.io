@@ -44,7 +44,8 @@ hr {
   padding: 0 4%;
 }
 .container p, .container ol, .container ul {
-  font-size: 17px;
+  font-size: 18px;
+  line-height: 24px;
   padding: 0 5%;
 }
 .container p:first-of-type {
@@ -80,8 +81,8 @@ hr {
 
 /* ----- top menu ----- */
 
-{% assign navborder = 3 %}
-{% assign navborder_active = 6 %}
+{% assign navborder = 5 %}
+{% assign navborder_active = 10 %}
 
 nav {
   font-size:15px;
