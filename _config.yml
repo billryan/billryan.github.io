@@ -22,6 +22,7 @@ source_link: http://www.billryan.me
 favicon:
 touch_icon:
 google_analytics_key:
+disqus_shortname: homepage-billryan
 
 
 ### template colors, used site-wide via css ###
@@ -59,3 +60,4 @@ colors:
   yellow:
     light: '#FFFF00'
     dark: '#FFFF00'
+
