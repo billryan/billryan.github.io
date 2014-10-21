@@ -12,7 +12,7 @@ I love the blue sky at SJTU!
 {: .center}
 
 Currently I'm doing research on Coexistence and Interference Mitigation in [WBANs](http://en.wikipedia.org/wiki/Body_area_network).  
-Data Center Network and Machine Learning is also my interests.   
+Data Center Network and Machine Learning are also my interests.   
 
 #### <u>2009.08 - 2013.07</u> B.S, Telecommunication Engineering, [XiDian University](http://www.xidian.edu.cn)
 
