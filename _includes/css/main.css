@@ -227,6 +227,13 @@ nav ul li:hover, nav ul li.active {
 .longlist li { margin-bottom: 3px; }
 
 
+/* ----- comments/disqus ----- */
+
+/* ----- change white text with grey ----- */
+#comments .text-white {
+  color: #AAAAAA;
+}
+
 
 /* ----- fork on github banner ----- */
 #forkongithub a {
