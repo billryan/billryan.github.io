@@ -227,11 +227,16 @@ nav ul li:hover, nav ul li.active {
 .longlist li { margin-bottom: 3px; }
 
 
-/* ----- comments/disqus ----- */
+/* ----- replace light text color with dark ----- */
 
-/* ----- change white text with grey ----- */
-#comments .text-white {
-  color: #AAAAAA;
+.text-white {
+  color: #b5b5b5;
+}
+.text-gray {
+  color: #888888;
+}
+.text-green {
+  color: #b5ed95;
 }
 
 
