@@ -7,23 +7,20 @@ safe: false
 
 ### site serving configuration ###
 exclude: [CNAME, README.md, .gitignore]
-permalink: / ## disables post output
+permalink: /:title ## disables post output
 timezone: null
 lsi: false
 markdown: kramdown
-highlighter: pygments
-
 
 ### content configuration ###
 title: Bill Ryan
 keywords: billryan
 description: Home of Rhett
 source_link: http://www.yuanbin.me
-favicon:
-touch_icon:
+favicon:     "img/favicon.ico"
+touch_icon:  "img/apple-touch-icon.png"
 google_analytics_key: UA-32317667-5
 disqus_shortname: homepage-billryan
-
 
 ### template colors, used site-wide via css ###
 colors:
@@ -39,3 +36,6 @@ colors:
   sepia-ft: '#f3eacb'
   midnight-blue: '#012345'
   yellow: '#FFFF00'
+
+kramdown:
+  auto_ids:  false

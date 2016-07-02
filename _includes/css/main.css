@@ -31,7 +31,7 @@ html { box-sizing: border-box; }
 code, pre { font-family: Monaco, Menlo, Consolas, "Courier New", monospace; }
 
 /* spesifically inline code */
-code {
+code, pre {
   background: rgba(255,255,255,0.2);
   display: inline;
   word-wrap: break-word;
@@ -47,7 +47,7 @@ pre {
   word-wrap: break-word;
 }
 
-.highlighttable { margin:20px 5%; }
+.highlight { margin:20px 5%; }
 
 
 /* ----- base elements ----- */
@@ -136,7 +136,7 @@ nav ul {
 nav ul li {
   display:inline-block;
   border-top:{{navborder}}px solid;
-  padding: {{navborder}}px 0;
+  padding: {{navborder}}px;
   *display:inline;
   zoom:1;
   line-height:normal;
@@ -270,7 +270,6 @@ nav ul li:hover, nav ul li.active {
 .text-green {
   color: #b5ed95;
 }
-
 
 /* ----- fork on github banner ----- */
 #forkongithub a {
