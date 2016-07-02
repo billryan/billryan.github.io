@@ -27,43 +27,15 @@ disqus_shortname: homepage-billryan
 
 ### template colors, used site-wide via css ###
 colors:
-  black:
-    light: '#303030'
-    dark: '#111111'
-  white:
-    light: '#f5f5f5'
-    dark: '#f8f8f8'
-  gray:
-    light: '#e3e3e3'
-    dark: '#e3e3e3'
-  blue:
-    light: '#3c9eec'
-    dark: '#49a7e9'
-  green1:
-    light: '#9ee874'
-    dark: '#9ee874'
-  green:
-    light: '#c4f1ab'
-    dark: '#c4f1ab'
-  purple:
-    light: '#c869bf'
-    dark: '#c869bf'
-  orange:
-    light: '#faaf22'
-    dark: '#fab125'
-  turquoise:
-    light: '#0fbfcf'
-    dark: '#0fbfcf'
-  sepia-bg:
-    light: '#704214'
-    dark: '#704214'
-  sepia-ft:
-    light: '#f3eacb'
-    dark: '#f3eacb'
-  midnight-blue:
-    light: '#012345'
-    dark: '#012345'
-  yellow:
-    light: '#FFFF00'
-    dark: '#FFFF00'
-
+  black:     '#111111'
+  white:     '#f8f8f8'
+  blue:      '#49a7e9'
+  green:     '#9bcf2f'
+  purple:    '#c869bf'
+  orange:    '#fab125'
+  turquoise: '#0fbfcf'
+  gray: '#e3e3e3'
+  sepia-bg: '#704214'
+  sepia-ft: '#f3eacb'
+  midnight-blue: '#012345'
+  yellow: '#FFFF00'
